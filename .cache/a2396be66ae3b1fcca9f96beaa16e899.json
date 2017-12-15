@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nconsole.info('b.js');\nconst bar = exports.bar = 2;"},"hash":"08cede42eb890998bde99ec4927c8828"}
